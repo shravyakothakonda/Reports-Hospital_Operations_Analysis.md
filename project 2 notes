@@ -4,3 +4,14 @@ A-: 6,969 A+: 6,956 AB-: 6,945 AB+: 6,947 B-: 6,944 B+: 6,945 O-: 6,877 O+: 6,91
 Key Insight:
 
 A- was the most common blood type and O- was the least common blood type. Blood type distribution was relatively balanced.
+
+Test Results Analysis
+Abnormal: 18,627
+
+Normal: 18,517
+
+Inconclusive: 18,356
+
+Key Insight:
+
+Abnormal test results were the most frequently reported outcome in the dataset.
